@@ -4,10 +4,10 @@
   <strong>Java Software Engineer · 8+ years experience</strong><br>
   Dubai · Open to tech-lead and staff roles · Available for relocation
 </p>
-
+https://www.linkedin.com/in/konovalov-oleg-java/
 <p align="center">
   <a href="mailto:oledjan2014@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/oleg-konovalov-ab4077260/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/konovalov-oleg-java/">LinkedIn</a> ·
   <a href="https://github.com/Konovalov-Oleg">GitHub</a> ·
   <a href="https://t.me/oleg_kon0valov">Telegram</a>
 </p>
@@ -48,7 +48,7 @@ Java Software Engineer with **8+ years** of commercial experience in banking and
 
 ## Experience
 
-### Uzum Bank
+### [Uzum Bank](https://uzumbank.uz/en)
 *09/2024 – Present · 1.8 years*
 
 - Designed and own a screening service that checks individuals against sanctions lists, PEP databases and internal watchlists across all payment flows - card transactions, P2P, cross-border transfers, consumer lending and merchant onboarding
@@ -60,7 +60,7 @@ Java Software Engineer with **8+ years** of commercial experience in banking and
 
 **Stack:** Java 17/21, Spring (Boot, Web, Security, Data JPA/Hibernate, Cache, Cloud), PostgreSQL, JDBC, Redis, Kafka, HashiCorp Vault, Docker, Kubernetes, Liquibase, JUnit 5, Mockito, Testcontainers, RestAssured, Prometheus, Grafana, OpenTelemetry, Sentry, Gradle, GitLab CI/CD
 
-### Raiffeisen Bank
+### [Raiffeisen Bank](https://www.raiffeisen.ru/en/)
 *08/2020 – 09/2024 · 4.2 years*
 
 - Built and led development of services that request, validate and convert official document extracts into XML/PDF; a **~100M-transactions-per-day** flow. The platform processes requests from regulators and bank clients
@@ -75,7 +75,7 @@ Java Software Engineer with **8+ years** of commercial experience in banking and
 
 **Stack:** Java 11/17, Kotlin, Spring (Boot, Web, Cloud, Security, Integration, Data JPA/Hibernate), PostgreSQL, ClickHouse, Redis, Kafka, ActiveMQ/Artemis, RabbitMQ, IBM MQ, REST, SOAP, Docker/Podman, Kubernetes, Apache POI, JAXB, S3 (MinIO), JUnit, Mockito, Testcontainers, WireMock, Gradle, Flyway, React, Prometheus, Grafana, ELK, Zabbix
 
-### Kaspi Bank
+### [Kaspi Bank](https://ir.kaspi.kz)
 *10/2017 – 08/2020 · 2.9 years*
 
 - Built classical and agency factoring products from scratch; embedded new business-process logic into the existing lending flow
