@@ -16,7 +16,7 @@ https://www.linkedin.com/in/konovalov-oleg-java/
 
 ## About
 
-Java Software Engineer with **8+ years** of commercial experience in banking and fintech. Took three large products from scratch to production, designing distributed architectures for high-throughput payment flows (up to **100M transactions/day**) on Spring/Kafka/Kubernetes. Hands-on experience decommissioning monoliths and integrating with legacy systems over SOAP, IBM MQ and ActiveMQ. Currently focused on AML/CFT compliance services - fuzzy name matching, sanctions screening, observability-driven calibration. Regularly conduct technical interviews and lead code reviews.
+Java Software Engineer with **8+ years** of commercial experience in banking and fintech. Took three large products from scratch to production, designing distributed architectures for high-throughput payment flows (up to **200M transactions/day**) on Spring/Kafka/Kubernetes. Hands-on experience decommissioning monoliths and integrating with legacy systems over SOAP, IBM MQ and ActiveMQ. Currently focused on AML/CFT compliance services - fuzzy name matching, sanctions screening, observability-driven calibration. Regularly conduct technical interviews and lead code reviews.
 
 ## Tech Stack
 
@@ -32,6 +32,7 @@ Java Software Engineer with **8+ years** of commercial experience in banking and
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -63,7 +64,7 @@ Java Software Engineer with **8+ years** of commercial experience in banking and
 ### [Raiffeisen Bank](https://www.raiffeisen.ru/en/)
 *08/2020 – 09/2024 · 4.2 years*
 
-- Built and led development of services that request, validate and convert official document extracts into XML/PDF; a **~100M-transactions-per-day** flow. The platform processes requests from regulators and bank clients
+- Built and led development of services that request, validate and convert official document extracts into XML/PDF; a **~200M-transactions-per-day** flow. The platform processes requests from regulators and bank clients
 - Designed the architecture for the overall platform and for individual microservices during the decommissioning of a legacy monolith
 - Built shared platform components - for example, a Spring Boot starter for Testcontainers used by several teams
 - Wrote several CI/CD pipelines from scratch; set up application metrics in Prometheus, dashboards in Grafana and distributed tracing
