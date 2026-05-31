@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Java Software Engineer · 8+ years experience</strong><br>
-  Dubai · Open to tech-lead and staff roles · Available for relocation
+  Dubai · Open to tech-lead and senior/staff roles · Available for relocation
 </p>
 https://www.linkedin.com/in/konovalov-oleg-java/
 <p align="center">
@@ -16,7 +16,7 @@ https://www.linkedin.com/in/konovalov-oleg-java/
 
 ## About
 
-Java Software Engineer with **8+ years** of commercial experience in banking and fintech. Took three large products from scratch to production, designing distributed architectures for high-throughput payment flows (up to **200M transactions/day**) on Spring/Kafka/Kubernetes. Hands-on experience decommissioning monoliths and integrating with legacy systems over SOAP, IBM MQ and ActiveMQ. Currently focused on AML/CFT compliance services - fuzzy name matching, sanctions screening, observability-driven calibration. Regularly conduct technical interviews and lead code reviews.
+Java Software Engineer with **8+ years** of commercial experience in banking and fintech. Took three large products from scratch to production, designing distributed architectures for high-throughput payment flows (up to **200M transactions/day**) on Spring/Kafka/Kubernetes. Hands-on experience decommissioning monoliths and integrating with legacy systems over SOAP, IBM MQ and ActiveMQ. Currently focused on AML/KYC compliance services - fuzzy name matching, sanctions screening, observability-driven calibration. Regularly conduct technical interviews and lead code reviews.
 
 ## Tech Stack
 
